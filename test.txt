@@ -1,1 +1,2 @@
-指定されたファイルが見つかりません。
+hello git!
+Edit test!
